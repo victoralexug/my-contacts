@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    box-sizing: border-box;
+    background: #000;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    margin: auto;
+    padding: 15px 0 10px 15px;
+}
+.header h2{
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
+.form{
+    display: flex;
+    margin-right: 20px; 
+}
+
+.form i{
+    background: rgba(34, 34, 34, 0.664);
+    color: #fff;
+    opacity: 0.7;
+    padding: 3px 0 3px 8px;
+    border-radius: 8px 0 0 8px;
+}
+
+.header input{
+    background: #111;
+    width: 100%;
+    border: 1px solid #111;
+    border-radius: 0 8px 8px 0;
+    padding: 3px;
+    color: #fff;
+}
+.header input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: #fff;
+    opacity: 0.7;
+}
+
+.img{
+    display: flex;
+    margin: 0 20px;
+    border-top: 1px solid #222;
+    padding: 8px 0;
+}
+
+img{
+    width: 45px;
+    border-radius: 50%;
+}
+
+.profile {
+    padding-left: 18px;
+}
+
+.profile p{
+    color: #777;
+    font-size: 15px;
+}
+
+#names li{
+    list-style: none;
+}
+
+.item-header{
+    background: #111;
+    padding: 3px 20px;
+    font-size: 20px;
+}
+
+.list-item{
+    margin: 0 25px;
+    border-bottom: 1px solid #111;
+    padding: 8px 0;
+}
+
+#names li a{
+    text-decoration: none;
+    color: #cddad8;
+}

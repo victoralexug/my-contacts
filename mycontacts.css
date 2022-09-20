@@ -47,6 +47,7 @@ html, body{
 ::placeholder{
     color: #fff;
     opacity: 0.7;
+    font-size: 16px:
 }
 
 .img{
@@ -66,8 +67,9 @@ img{
 }
 
 .profile p{
-    color: #777;
-    font-size: 15px;
+    color: #999;
+    font-size: 13px;
+    padding-top: 5px;
 }
 
 #names li{
@@ -77,16 +79,17 @@ img{
 .item-header{
     background: #111;
     padding: 3px 20px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .list-item{
-    margin: 0 25px;
+    margin: 0 22px;
     border-bottom: 1px solid #111;
     padding: 8px 0;
+    font-size: 13px;
 }
 
 #names li a{
     text-decoration: none;
-    color: #cddad8;
+    color: #fff;
 }

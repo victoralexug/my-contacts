@@ -33,7 +33,7 @@ html, body{
 }
 
 .header input{
-    background: #111;
+    background: #222;
     width: 100%;
     border: 1px solid #111;
     border-radius: 0 8px 8px 0;
@@ -78,14 +78,14 @@ img{
 }
 
 .item-header{
-    background: #111;
+    background: #333;
     padding: 3px 20px;
     font-size: 18px;
 }
 
 .list-item{
     margin: 0 22px;
-    border-bottom: 1px solid #111;
+    border-bottom: 1px solid #222;
     padding: 5px 0;
     font-size: 13px;
 }

@@ -28,7 +28,7 @@ html, body{
     background: rgba(34, 34, 34, 0.664);
     color: #fff;
     opacity: 0.7;
-    padding: 3px 0 3px 8px;
+    padding: 5px 0 5px 8px;
     border-radius: 8px 0 0 8px;
 }
 
@@ -37,7 +37,7 @@ html, body{
     width: 100%;
     border: 1px solid #111;
     border-radius: 0 8px 8px 0;
-    padding: 3px;
+    padding: 5px;
     color: #fff;
 }
 .header input:focus{
@@ -47,7 +47,7 @@ html, body{
 ::placeholder{
     color: #fff;
     opacity: 0.7;
-    font-size: 16px:
+    font-size: 16px;
 }
 
 .img{
@@ -85,7 +85,7 @@ img{
 .list-item{
     margin: 0 22px;
     border-bottom: 1px solid #111;
-    padding: 8px 0;
+    padding: 5px 0;
     font-size: 13px;
 }
 
